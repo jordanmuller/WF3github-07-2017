@@ -1,0 +1,19 @@
+[
+    {
+        "id": 0,
+        "content": "Accueil",
+        "anchor": "#accueil"
+    },
+
+    {
+        "id": 1,
+        "content": "Liste des étudiants",
+        "anchor": "#studentList"
+    },
+ 
+    {
+        "id": 2,
+        "content": "Contacter WebForce3",
+        "anchor": "#contacts"
+    }
+]
