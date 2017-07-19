@@ -1,0 +1,5 @@
+ASSETS/
+On peut ignorer des contenus
+*.psd 
+machin.psd
+node_modules/
