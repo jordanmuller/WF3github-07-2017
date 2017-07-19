@@ -1,0 +1,31 @@
+/*
+Reset
+*/
+* {
+    margin: 0;
+    padding: 0;
+
+    /* -webkit- est un constructeur de navigateur */
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html {
+    /* Pour avoir une hauteur de 10px -> 16.5 x 62.5 / 100 = 10 */
+    font-size: 62.5%; /* 1rem = 10px */
+}
+
+body {
+    font-size: 1.5rem;
+}
+
+h1 {
+    /* rem prend le parent le plus englobant, ici html */
+    font-size: 3rem;
+}
+
+h1 span {
+    /* em prend le parent direct, ici h1 */
+    font-size: .5em;
+}
+    
